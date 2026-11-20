@@ -1,6 +1,6 @@
-# Values As Vision — website
+# Conversations for Change — website
 
-A static site (plain HTML, CSS, and a little JavaScript; no build step) for the Values As Vision program.
+A static site (plain HTML, CSS, and a little JavaScript; no build step) for the Conversations for Change program.
 
 ## Publish on GitHub Pages
 1. Create a new GitHub repository (e.g. `values-as-vision`).
@@ -17,5 +17,5 @@ For a custom domain, add it under Settings → Pages and add a `CNAME` file cont
 - `images/` — optimized photos (JPG, max 1400px)
 
 ## Editing
-Open any `.html` file in a text editor. To change the contact email, search for `alidabmonaco@gmail.com`.
+Open any `.html` file in a text editor. To change the contact email, search for `alidabmo@mit.edu`.
 To add a photo to the gallery, drop it in `images/` and copy one `<button>…</button>` line in `gallery.html`.
